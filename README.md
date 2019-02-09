@@ -235,8 +235,6 @@ persp(longitud, latitud, densidad, col = 'gray')
 ![png](output_24_0.png)
 
 
-#### AQUI VA CÓDIGO HTML
-
 El _kernel_ requiere que se defina un ancho de banda ($\sigma$) que permitirá controlar el suavizamiento de la función. Para esto se emplea la función `bw.ppl` que permite seleccionar el ancho de banda mediante validación cruzada de verosimilitud:
 
 
